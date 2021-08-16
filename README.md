@@ -8,7 +8,7 @@ Este projeto foi desenvolvido na #05 NLW da [Rocketseat](https://rocketseat.com.
 
 O projeto é um aplicativo para ouvir os melhores podcast's na melhor qualidade!!
 
-Esse projeto foi desenvolvido com as tecnologias front-end:<br>
+Esse projeto foi desenvolvido com as tecnologias front-end:<br><br>
 <img src="podcastrnext/public/tech-logos.png"/><br>
 ReactJS<br>
 Typescript<br>
