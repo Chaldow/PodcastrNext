@@ -10,7 +10,7 @@ Typescript
 Next.js
 
 
-💻 Começando o projeto
+# 💻 Começando o projeto
 
 Requisitos
 Você vai precisar instalar o Node.Js e o Yarn para rodar esse projeto.
