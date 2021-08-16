@@ -1,5 +1,9 @@
 # PodcastrNext
 
+<p align="center">
+  <img width="470" src="podcastrnext/public/logo.svg">
+</p>
+
 Este projeto foi desenvolvido na #05 NLW da [Rocketseat](https://rocketseat.com.br/). 
 
 O projeto é um aplicativo para ouvir os melhores podcast's na melhor qualidade!!
@@ -9,6 +13,7 @@ ReactJS
 Typescript
 Next.js
 
+<img src="podcastrnext/public/imagem_2021-08-15_220102.png"/>
 
 # 💻 Começando o projeto
 
