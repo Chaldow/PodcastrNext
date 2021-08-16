@@ -36,6 +36,7 @@ $ yarn server
 
 # Rodar o servidor Web
 $ yarn dev
+<br>
 O aplicativo estará disponível na url: http://localhost:3000
 
 
