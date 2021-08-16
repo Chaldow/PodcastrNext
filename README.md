@@ -30,8 +30,6 @@ $ yarn server
 $ yarn dev
 O aplicativo estará disponível na url: http://localhost:3000
 
-📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Feito com 💜 por mim: Chaldow 👋 Dê uma olhada no meu LinkedIn.
 
