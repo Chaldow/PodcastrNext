@@ -24,7 +24,7 @@ Requisitos
 Você vai precisar instalar o Node.Js e o Yarn para rodar esse projeto.
 Clone o meu projeto para acessar os arquivos
 
-$ git clone https://github.com/Chaldow/PodcastrNext
+$ git clone https://github.com/Chaldow/PodcastrNext.git
 
 Feito isso, siga os próximos passos
 
